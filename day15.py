@@ -103,7 +103,9 @@ a = <Classname>()
 # print(obj)
 
 
-# CONSTRUCTOR METHOD: capture arguments
+# CONSTRUCTOR METHOD: capture arguments , we will not put "return" if you put "return, always give None after return"
+# not a good practice to print inside a constructor
+
 
 # class Subjects():
 #     def __init__(self):
